@@ -1,10 +1,9 @@
 ## Hi 👋, I'm Jimmy Chane</h1>
 
-### Back End Develop who like to explore more tech stack</h3>
+### Frontend Developer who like to explore more tech stack</h3>
 
-Aspiring Security Network Engineering, and my passion is Computer Networking and
-Programming. I am passionate to learn and discover more about computers and
-making more robust networking security with accompany software that power the
+My passion is Design and Programming. I am passionate to learn and discover more about computers and
+making more robust user interface with accompany software that power the
 modern web today
 
 [![Linkedin](https://img.shields.io/badge/-JimmyChane-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-chane-b9937a266/)
