@@ -11,9 +11,9 @@ modern web today
 ## Skills
 
 - Concept: OOP, ORM
-- Language: PHP, Dart, Java, Typescript/JS
-- Database: MySQL, MongoDB
-- Tech Framework: Flutter, VueJS
+- Language: Typescript/JS, Java, Dart, PHP
+- Database: MongoDB, MySQL
+- Tech Framework: VueJS, Flutter, Svelte
 - Backend API: Restful API
 - Ops-related: GitHub, JSON
 - IDE: JetBrains IDE, Visual Studio Code
@@ -67,5 +67,13 @@ modern web today
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"
+      alt="css" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"
+      alt="sass" width="40" height="40" />
   </a>
 </p>
